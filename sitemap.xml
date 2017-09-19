@@ -2,86 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pat-griffin.github.io/index.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/2014-11-20_utile-city-01-22484x1589.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/noun_112382_cc.png</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/noun_479787_cc.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/noun_219905_cc.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/noun_484028_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pat-griffin.github.io/images/noun_619418_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pat-griffin.github.io/images/noun_479787_cc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pat-griffin.github.io/images/noun_165715_cc.png</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/noun_112382_cc.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pat-griffin.github.io/01_chicago.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_4470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_4357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_4421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_2533.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/img_4286.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/img_4363-crop-u11501.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pat-griffin.github.io/03_denver.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/denver_axo%202-crop-u23481.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6406.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/ez10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6461.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/img_6432.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pat-griffin.github.io/04_kansas-city.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/kc%20axo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_142137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_141603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_142930-crop-u22290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_145056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_144924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_152357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_161943-crop-u22264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170905_153108.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170912_150550-crop-u22323.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/20170912_150453.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://pat-griffin.github.io/xx_about.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pat-griffin.github.io/images/jake%20portrait%20(1).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pat-griffin.github.io/images/white%20portrait.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/dillon.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/griffin%20portrait.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/tannerhyland_photo%20bw-crop-u13970.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/tannerhyland_photo%20bw-crop-u13970.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/headshot-crop-u14054.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/white%20portrait.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/griffin%20portrait.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pat-griffin.github.io/images/emma%20portrait.jpg</image:loc>
@@ -89,7 +149,7 @@
   </url>
   <url>
     <loc>http://pat-griffin.github.io/contribute.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,14 +170,41 @@
   </url>
   <url>
     <loc>http://pat-griffin.github.io/02_los-angeles.html</loc>
-    <lastmod>2017-09-14</lastmod>
+    <lastmod>2017-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/pasted%20image%20240x240.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/map%20(1)-crop-u24063.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pat-griffin.github.io/images/fruit%20stand%20downtown%20la.jpg</image:loc>
+      <image:loc>http://pat-griffin.github.io/images/berlin%20wall%20project.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/cupcake%20atm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/market%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/venice%20graffiti-crop-u21674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/the%20valley.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/wings-crop-u21630.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/bates%20motel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/car%20sculpture.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/fruit%20stand.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pat-griffin.github.io/images/chinatown%20metro.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
